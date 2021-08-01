@@ -1,6 +1,6 @@
-*Cat
-*Dog
-*Pig
-  *cute
-  *tasty
-  *loveable
+* Cat
+* Dog
+* Pig
+  * cute
+  * tasty
+  * loveable
